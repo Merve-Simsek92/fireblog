@@ -53,6 +53,7 @@ function AppRouter() {
           <Route path="update-blog/:id" element={<UpdateBlog />} />
           <Route path="detail/:id" element={<Details />} />
         </Route>
+        <Route path="*" element={<Main />} />
       </Routes>
     </BrowserRouter>
   );

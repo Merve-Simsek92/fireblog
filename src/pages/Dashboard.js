@@ -43,17 +43,14 @@ const Main = () => {
         <Grid container className={classes.root} spacing={5} justify="center">
           <Grid item xs={12}>
             <Grid container justify="center" spacing={5}>
-              {currentBlogs === undefined ? (
-                <img src={loadingGif} alt="loading" />
-              ) : currentBlogs ? (
-                currentBlogs?.map((item, id) => (
+              {currentBlogs?.map((item, id) => (
                   <Grid key={id} item>
                     <BlogCard post={item} />
                   </Grid>
                 ))
-              ) : (
-                <h3>No data available.</h3>
-              )}
+  
+                
+              }
             </Grid>
           </Grid>
         </Grid>
