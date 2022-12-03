@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fireblog/static/css/main.9a3f7bc5.chunk.css",
+    "main.js": "/fireblog/static/js/main.2d09b858.chunk.js",
+    "main.js.map": "/fireblog/static/js/main.2d09b858.chunk.js.map",
+    "runtime-main.js": "/fireblog/static/js/runtime-main.41e90778.js",
+    "runtime-main.js.map": "/fireblog/static/js/runtime-main.41e90778.js.map",
+    "static/css/2.c55f41dc.chunk.css": "/fireblog/static/css/2.c55f41dc.chunk.css",
+    "static/js/2.6f9312b9.chunk.js": "/fireblog/static/js/2.6f9312b9.chunk.js",
+    "static/js/2.6f9312b9.chunk.js.map": "/fireblog/static/js/2.6f9312b9.chunk.js.map",
+    "index.html": "/fireblog/index.html",
+    "static/css/2.c55f41dc.chunk.css.map": "/fireblog/static/css/2.c55f41dc.chunk.css.map",
+    "static/css/main.9a3f7bc5.chunk.css.map": "/fireblog/static/css/main.9a3f7bc5.chunk.css.map",
+    "static/js/2.6f9312b9.chunk.js.LICENSE.txt": "/fireblog/static/js/2.6f9312b9.chunk.js.LICENSE.txt",
+    "static/media/blok.7e6674a5.png": "/fireblog/static/media/blok.7e6674a5.png",
+    "static/media/cw.041cf5e8.jpeg": "/fireblog/static/media/cw.041cf5e8.jpeg",
+    "static/media/google.d1e31f45.png": "/fireblog/static/media/google.d1e31f45.png",
+    "static/media/loading.91319f38.gif": "/fireblog/static/media/loading.91319f38.gif",
+    "static/media/no-data.a03fc88a.png": "/fireblog/static/media/no-data.a03fc88a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41e90778.js",
+    "static/css/2.c55f41dc.chunk.css",
+    "static/js/2.6f9312b9.chunk.js",
+    "static/css/main.9a3f7bc5.chunk.css",
+    "static/js/main.2d09b858.chunk.js"
+  ]
+}
