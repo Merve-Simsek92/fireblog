@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fireblog/static/css/main.9a3f7bc5.chunk.css",
-    "main.js": "/fireblog/static/js/main.23ed9830.chunk.js",
-    "main.js.map": "/fireblog/static/js/main.23ed9830.chunk.js.map",
+    "main.js": "/fireblog/static/js/main.f796dba7.chunk.js",
+    "main.js.map": "/fireblog/static/js/main.f796dba7.chunk.js.map",
     "runtime-main.js": "/fireblog/static/js/runtime-main.6bdcd2fd.js",
     "runtime-main.js.map": "/fireblog/static/js/runtime-main.6bdcd2fd.js.map",
     "static/css/2.c55f41dc.chunk.css": "/fireblog/static/css/2.c55f41dc.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.c55f41dc.chunk.css",
     "static/js/2.16f6d764.chunk.js",
     "static/css/main.9a3f7bc5.chunk.css",
-    "static/js/main.23ed9830.chunk.js"
+    "static/js/main.f796dba7.chunk.js"
   ]
 }
